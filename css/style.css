@@ -157,3 +157,26 @@ footer {
 p.copyright {
   margin: 15px 0 0;
 }
+
+
+/*BUTTON HOVERS*/
+
+#twitter:hover{
+  background: #4099FF;
+}
+
+#github:hover{
+  background: #6e2b7e;
+}
+
+#linkedin:hover{
+  background: #007bb6;
+}
+
+.btn:hover{
+      transition: .25s ease-in-out;
+   -moz-transition: .25s ease-in-out;
+   -webkit-transition: .25s ease-in-out;
+   border: 1px solid transparent;
+     color: white;
+}
