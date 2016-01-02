@@ -1,9 +1,6 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/StephenMayeux/pen/rVEgPX.
+# Stephen Mayeux's Portfolio
+This is a simple portfolio website made using HTML5 and Bootstrap. You can visit my portfolio at http://stephenmayeux.com. This portfolio was made in order to attain the Front End Development Certificate at http://freecodecamp.com. 
 
- Stephen Mayeux Web Design
-"Hella Nice Sites from a Hella Nice Dude"
+## Acknowledgments 
 
-CONTACT:
-stephenmayeux [at] gmail [dot] com
-
-Pen created as part of the FreeCodeCamp.com curriculum. 
+Thanks to @rjtkoh for adding some hella nice sytling to the social buttons.
